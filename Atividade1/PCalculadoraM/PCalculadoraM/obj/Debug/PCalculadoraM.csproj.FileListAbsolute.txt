@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\bin\Debug\PCalculadoraM.exe.config
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\bin\Debug\PCalculadoraM.exe
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\bin\Debug\PCalculadoraM.pdb
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\obj\Debug\PCalculadoraM.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\obj\Debug\PCalculadoraM.Form1.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\obj\Debug\PCalculadoraM.Properties.Resources.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\obj\Debug\PCalculadoraM.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\obj\Debug\PCalculadoraM.exe
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PCalculadoraM\PCalculadoraM\obj\Debug\PCalculadoraM.pdb
