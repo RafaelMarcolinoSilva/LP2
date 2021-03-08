@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPesoCertoM", "PPesoCertoM\PPesoCertoM.csproj", "{92BE6202-0629-4CEE-B807-E4A39D2453A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BE6202-0629-4CEE-B807-E4A39D2453A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BE6202-0629-4CEE-B807-E4A39D2453A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BE6202-0629-4CEE-B807-E4A39D2453A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BE6202-0629-4CEE-B807-E4A39D2453A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\bin\Debug\PPesoCertoM.exe.config
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\bin\Debug\PPesoCertoM.exe
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\bin\Debug\PPesoCertoM.pdb
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\obj\Debug\PPesoCertoM.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\obj\Debug\PPesoCertoM.Form1.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\obj\Debug\PPesoCertoM.Properties.Resources.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\obj\Debug\PPesoCertoM.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\obj\Debug\PPesoCertoM.exe
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PPesoCertoM\PPesoCertoM\obj\Debug\PPesoCertoM.pdb
