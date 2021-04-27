@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
+C:\Users\User\Desktop\FATEC\LP 2\Projetos_LP2\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio5.resources
